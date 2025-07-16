@@ -2681,3 +2681,6 @@ BCLib - The End  BiomeSource (1adbbc1b)
 [08:32:24] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
 [08:33:07] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-910, y=-53, z=-573}
 [08:33:07] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-910, y=-53, z=-572}
+[08:43:08] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-280, y=-47, z=423}
+[08:43:08] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-373, y=-32, z=424}
+[08:43:08] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-373, y=-32, z=426}

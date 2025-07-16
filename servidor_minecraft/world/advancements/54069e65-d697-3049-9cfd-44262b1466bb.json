@@ -19528,6 +19528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-16 08:31:17 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/quartz_glass_framed_pane_purple": {
     "criteria": {
       "has_purple_dye": "2025-07-16 08:28:21 +0000"
@@ -19591,6 +19597,12 @@
   "betterend:recipes/misc/hydralux_petal_block_purple": {
     "criteria": {
       "has_purple_dye": "2025-07-16 08:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-16 08:31:17 +0000"
     },
     "done": true
   },
@@ -19684,6 +19696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-16 08:31:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/stove": {
     "criteria": {
       "has_campfire": "2025-07-16 07:22:41 +0000"
@@ -19699,6 +19717,12 @@
   "betternether:recipes/building_blocks/quartz_glass_framed_purple": {
     "criteria": {
       "has_purple_dye": "2025-07-16 08:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-16 08:31:17 +0000"
     },
     "done": true
   },
@@ -19798,6 +19822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-16 08:31:17 +0000"
+    },
+    "done": true
+  },
   "create:water_supply": {
     "criteria": {
       "0": "2025-07-16 05:49:36 +0000"
@@ -19813,6 +19843,12 @@
   "techreborn:recipes/chemical_reactor/magenta_carpet_from_pink_carpet_with_purple_dye": {
     "criteria": {
       "has_purple_dye": "2025-07-16 08:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-16 08:31:17 +0000"
     },
     "done": true
   },
@@ -19939,6 +19975,12 @@
   "railways:recipes/misc/crafting/smokestack_caboosestyle": {
     "criteria": {
       "has_item": "2025-07-16 07:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-16 08:31:17 +0000"
     },
     "done": true
   },
