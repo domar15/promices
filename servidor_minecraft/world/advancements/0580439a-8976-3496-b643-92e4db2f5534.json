@@ -20841,6 +20841,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:white": "2025-07-16 06:11:58 +0000"
+    },
+    "done": false
+  },
   "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
     "criteria": {
       "has_skeleton_skull": "2025-07-16 05:53:23 +0000"

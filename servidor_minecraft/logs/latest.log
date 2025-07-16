@@ -2607,3 +2607,42 @@ BCLib - The End  BiomeSource (1adbbc1b)
 [05:50:30] [Server thread/INFO]: Created new backpack backup file for d0ce3_ with unique ID travelersbackpack.standard_16.07.2025-05.50.30.dat
 [05:50:32] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of d0ce3_ accepted server config.
 [05:50:51] [Server thread/INFO]: d0ce3_ claimed a grave belonging to d0ce3_ at -1426, 65, 273, minecraft:overworld
+[06:02:54] [Server thread/INFO]: Villager class_1646['Raisa'/68049, l='ServerLevel[world]', x=-1402.19, y=62.90, z=228.79] died, message: 'Raisa was slain by Zombie'
+[06:02:54] [Server thread/INFO]: Named entity class_1646['Raisa'/68049, l='ServerLevel[world]', x=-1402.19, y=62.90, z=228.79] died: Raisa was slain by Zombie
+[06:03:00] [Server thread/INFO]: Villager class_1646['Idella'/68052, l='ServerLevel[world]', x=-1403.21, y=62.90, z=228.98] died, message: 'Idella was slain by Zombie'
+[06:03:00] [Server thread/INFO]: Named entity class_1646['Idella'/68052, l='ServerLevel[world]', x=-1403.21, y=62.90, z=228.98] died: Idella was slain by Zombie
+[06:03:11] [Server thread/INFO]: <zimee777> nooooooooo
+[06:03:26] [Server thread/INFO]: Named entity class_1641['Raisa'/89882, l='ServerLevel[world]', x=-1401.49, y=62.45, z=229.17] died: Raisa burned to death
+[06:03:29] [Server thread/INFO]: <d0ce3_> que pacho
+[06:03:29] [Server thread/INFO]: Named entity class_1641['Idella'/89896, l='ServerLevel[world]', x=-1403.93, y=62.45, z=228.63] died: Idella burned to death
+[06:03:34] [Server thread/INFO]: <zimee777> noooooooooooooo
+[06:03:39] [Server thread/INFO]: <zimee777> videlaaaaaaaa
+[06:03:55] [Server thread/INFO]: <zimee777> lo conviriteroooooon
+[06:04:16] [Server thread/INFO]: <d0ce3_> efe
+[06:08:18] [Server thread/INFO]: <zimee777> mira
+[06:09:34] [Server thread/INFO]: <d0ce3_> que cosa
+[06:09:44] [Server thread/INFO]: <d0ce3_> aah bien
+[06:09:44] [Server thread/INFO]: <zimee777> ta bien grande
+[06:09:51] [Server thread/INFO]: <d0ce3_> lo tuyo si
+[06:09:57] [Server thread/INFO]: <zimee777> arevido
+[06:10:18] [Server thread/INFO]: <d0ce3_> falta la casa nomas ahoara
+[06:10:25] [Server thread/INFO]: <d0ce3_> pero taaaaan grande va a ser=
+[06:10:27] [Server thread/INFO]: <d0ce3_> ? xd
+[06:10:29] [Server thread/INFO]: <zimee777> nop
+[06:10:42] [Server thread/INFO]: <zimee777> aca habia lugar pa lo del create tmbien pero hiciste alla
+[06:10:55] [Server thread/INFO]: <d0ce3_> y...
+[06:11:06] [Server thread/INFO]: <d0ce3_> yo uso mucho eso
+[06:11:15] [Server thread/INFO]: <d0ce3_> pero igual la fabrica queda ahi
+[06:11:25] [Server thread/INFO]: <d0ce3_> despues las demas cosas se pueden usar
+[06:14:47] [Server thread/INFO]: <zimee777> uuuuuuuuuuuuun mutanteeeeeeeeeeeeeee
+[06:15:03] [Server thread/INFO]: <zimee777> juan
+[06:15:25] [Server thread/INFO]: <d0ce3_> uh amore
+[06:15:29] [Server thread/INFO]: <d0ce3_> tene cuidado
+[06:15:34] [Server thread/INFO]: <d0ce3_> no vengas hacia los aldeanos
+[06:15:36] [Server thread/INFO]: <d0ce3_> lpm
+[06:15:44] [Server thread/INFO]: d0ce3_ was slain by Mutant Zombie
+[06:15:44] [Server thread/INFO]: Created new backpack backup file for d0ce3_ with unique ID travelersbackpack.standard_16.07.2025-06.15.44.dat
+[06:15:45] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of d0ce3_ accepted server config.
+[06:15:46] [Server thread/INFO]: <zimee777> pfff
+[06:16:05] [Server thread/INFO]: d0ce3_ claimed a grave belonging to d0ce3_ at -1318, 63, 250, minecraft:overworld
+[06:18:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
