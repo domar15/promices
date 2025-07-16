@@ -20865,6 +20865,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_pickaxe": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-07-16 07:37:34 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/ghostly_helmet": {
     "criteria": {
       "has_skeleton_skull": "2025-07-16 05:53:23 +0000"

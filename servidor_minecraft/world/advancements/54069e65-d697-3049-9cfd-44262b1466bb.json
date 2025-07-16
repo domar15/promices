@@ -19504,6 +19504,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-16 07:31:28 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_coalburner": {
+    "criteria": {
+      "has_item": "2025-07-16 07:22:41 +0000"
+    },
+    "done": true
+  },
   "create:speed_controller": {
     "criteria": {
       "0": "2025-07-16 06:18:44 +0000"
@@ -19522,9 +19534,45 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-07-16 07:23:42 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_woodburner": {
+    "criteria": {
+      "has_item": "2025-07-16 07:22:41 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_long": {
+    "criteria": {
+      "has_item": "2025-07-16 07:22:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/burn_pottery_sherd": {
+    "criteria": {
+      "has_campfire": "2025-07-16 07:22:41 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_streamlined": {
+    "criteria": {
+      "has_item": "2025-07-16 07:22:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-07-16 05:12:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-07-16 07:22:41 +0000"
     },
     "done": true
   },
@@ -19564,6 +19612,12 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/smokestack_diesel": {
+    "criteria": {
+      "has_item": "2025-07-16 07:22:41 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-07-16 05:12:16 +0000"
@@ -19576,9 +19630,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-07-16 07:23:19 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_smooth_stone": "2025-07-16 05:12:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_spruce_sign": "2025-07-16 07:23:19 +0000"
     },
     "done": true
   },
@@ -19591,6 +19657,36 @@
   "create:recipes/misc/crafting/schematics/schematicannon": {
     "criteria": {
       "has_item": "2025-07-16 05:20:44 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_oilburner": {
+    "criteria": {
+      "has_item": "2025-07-16 07:22:41 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/poppy": {
+    "criteria": {
+      "has_flower": "2025-07-16 07:31:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-16 07:31:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-07-16 07:23:19 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_caboosestyle": {
+    "criteria": {
+      "has_item": "2025-07-16 07:22:41 +0000"
     },
     "done": true
   },
