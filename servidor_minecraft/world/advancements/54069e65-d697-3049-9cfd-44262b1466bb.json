@@ -19606,6 +19606,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/block_breaker": {
+    "criteria": {
+      "has_hopper": "2025-07-16 07:52:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/block_placer": {
+    "criteria": {
+      "has_hopper": "2025-07-16 07:52:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/schematic_table": {
     "criteria": {
       "has_item": "2025-07-16 05:20:44 +0000"
@@ -19672,6 +19684,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-07-16 07:50:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-07-16 07:31:28 +0000"
@@ -19684,9 +19702,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_hopper": "2025-07-16 07:52:28 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/smokestack_caboosestyle": {
     "criteria": {
       "has_item": "2025-07-16 07:22:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-07-16 07:50:18 +0000"
     },
     "done": true
   },
