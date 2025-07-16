@@ -2512,3 +2512,9 @@ BCLib - The End  BiomeSource (1adbbc1b)
 [04:39:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0580439a-8976-3496-b643-92e4db2f5534
 [04:39:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player zimee777 (0580439a-8976-3496-b643-92e4db2f5534) successfully connected to voice chat
 [04:40:16] [Server thread/INFO]: zimee777 claimed a grave belonging to zimee777 at -1368, 63, 232, minecraft:overworld
+[04:50:09] [Server thread/INFO]: zimee777 lost connection: Disconnected
+[04:50:09] [Server thread/INFO]: zimee777 left the game
+[04:50:09] [Server thread/INFO]: remove player wand
+[04:50:09] [Server thread/INFO]: Removing session data for player zimee777[0580439a-8976-3496-b643-92e4db2f5534]
+[04:50:09] [Server thread/INFO]: Updating all forceload tickets for 0580439a-8976-3496-b643-92e4db2f5534
+[04:50:09] [Server thread/INFO]: [voicechat] Disconnecting client zimee777
