@@ -2148,3 +2148,89 @@ BCLib - The End  BiomeSource (1adbbc1b)
 [00:02:59] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
 [00:02:59] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
 [00:03:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4545ms or 90 ticks behind
+[00:12:09] [Netty Epoll Server IO #1/INFO]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7472
+[00:12:09] [Netty Epoll Server IO #1/INFO]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_2797
+[00:12:09] [Netty Epoll Server IO #1/INFO]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7861
+[00:12:11] [Server thread/INFO]: [Handshake] Sending channel query
+[00:12:11] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[00:12:11] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[00:12:12] [Server thread/INFO]: d0ce3_[/100.69.53.32:62949] logged in with entity id 70 at (-1431.4300483931775, 58.0, 279.12598695036723)
+[00:12:13] [Server thread/INFO]: Sending server config values to client
+[00:12:14] [Server thread/INFO]: Syncing config to d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb)
+[00:12:14] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[00:12:15] [Server thread/INFO]: Loading config from file...
+[00:12:16] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[00:12:16] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:12:16] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[00:12:17] [Server thread/INFO]: d0ce3_ joined the game
+[00:12:17] [Server thread/INFO]: Loading Configs for Sortilege
+[00:12:17] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[00:12:17] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[00:12:17] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[00:12:17] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[00:12:18] [Server thread/INFO]: PLAYER_JOIN
+[00:12:18] [Server thread/INFO]: add_player wand
+[00:12:18] [Server thread/INFO]: config sent
+[00:12:18] [Server thread/INFO]: Player d0ce3_ just logged in with id 54069e65-d697-3049-9cfd-44262b1466bb
+[00:12:18] [ForkJoinPool-4-worker-1/INFO]: Loading local skin for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[00:12:18] [ForkJoinPool-4-worker-1/INFO]: Loading local cape for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[00:12:18] [Server thread/INFO]: Updating all forceload tickets for 54069e65-d697-3049-9cfd-44262b1466bb
+[00:12:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6827ms or 136 ticks behind
+[00:12:20] [Netty Epoll Server IO #2/INFO]: Channel update: d0ce3_ -> default
+[00:12:20] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player d0ce3_. Claiming: GRAVE / Robbing: INVENTORY
+[00:12:20] [Server thread/INFO]: [voicechat] Received secret request of d0ce3_ (18)
+[00:12:21] [Server thread/INFO]: [voicechat] Sent secret to d0ce3_
+[00:12:21] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of d0ce3_ accepted server config.
+[00:12:21] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
+[00:12:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 54069e65-d697-3049-9cfd-44262b1466bb
+[00:12:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 54069e65-d697-3049-9cfd-44262b1466bb
+[00:12:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb) successfully connected to voice chat
+[00:12:43] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[00:12:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9735ms or 194 ticks behind
+[00:12:51] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[00:13:13] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:13:23] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.betternether.blocks.RedstoneOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:13:23] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:13:23] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:13:23] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseOreBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:13:23] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[00:13:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9845ms or 196 ticks behind
+[00:20:04] [Server thread/INFO]: d0ce3_ lost connection: Disconnected
+[00:20:04] [Server thread/INFO]: d0ce3_ left the game
+[00:20:04] [Server thread/INFO]: remove player wand
+[00:20:04] [Server thread/INFO]: Removing session data for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[00:20:04] [Server thread/INFO]: Updating all forceload tickets for 54069e65-d697-3049-9cfd-44262b1466bb
+[00:20:04] [Server thread/INFO]: [voicechat] Disconnecting client d0ce3_
+[00:21:12] [Server thread/INFO]: [Handshake] Sending channel query
+[00:21:13] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[00:21:13] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[00:21:13] [Server thread/INFO]: d0ce3_[/100.69.53.32:63035] logged in with entity id 1920 at (-1417.735126066107, 65.0625, 237.88548252644105)
+[00:21:13] [Server thread/INFO]: Sending server config values to client
+[00:21:13] [Server thread/INFO]: Syncing config to d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb)
+[00:21:13] [Server thread/INFO]: Loading config from file...
+[00:21:13] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[00:21:13] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:21:13] [Server thread/INFO]: d0ce3_ joined the game
+[00:21:13] [Server thread/INFO]: Loading Configs for Sortilege
+[00:21:13] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[00:21:13] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[00:21:13] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[00:21:13] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[00:21:13] [Server thread/INFO]: PLAYER_JOIN
+[00:21:13] [Server thread/INFO]: add_player wand
+[00:21:13] [Server thread/INFO]: config sent
+[00:21:13] [Server thread/INFO]: Player d0ce3_ just logged in with id 54069e65-d697-3049-9cfd-44262b1466bb
+[00:21:13] [Server thread/INFO]: Updating all forceload tickets for 54069e65-d697-3049-9cfd-44262b1466bb
+[00:21:13] [ForkJoinPool-4-worker-2/INFO]: Loading local skin for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[00:21:13] [ForkJoinPool-4-worker-2/INFO]: Loading local cape for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[00:21:15] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[00:21:17] [Netty Epoll Server IO #5/INFO]: Channel update: d0ce3_ -> default
+[00:21:17] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player d0ce3_. Claiming: GRAVE / Robbing: INVENTORY
+[00:21:17] [Server thread/INFO]: [voicechat] Received secret request of d0ce3_ (18)
+[00:21:17] [Server thread/INFO]: [voicechat] Sent secret to d0ce3_
+[00:21:18] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of d0ce3_ accepted server config.
+[00:21:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 54069e65-d697-3049-9cfd-44262b1466bb
+[00:21:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 54069e65-d697-3049-9cfd-44262b1466bb
+[00:21:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb) successfully connected to voice chat
+[00:22:17] [Server thread/INFO]: d0ce3_ has reached the goal [Choose your path]
+[00:22:42] [Server thread/INFO]: d0ce3_ has made the advancement [Path of Tricks]
