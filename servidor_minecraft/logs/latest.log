@@ -2234,3 +2234,6 @@ BCLib - The End  BiomeSource (1adbbc1b)
 [00:21:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb) successfully connected to voice chat
 [00:22:17] [Server thread/INFO]: d0ce3_ has reached the goal [Choose your path]
 [00:22:42] [Server thread/INFO]: d0ce3_ has made the advancement [Path of Tricks]
+[00:45:41] [Server thread/INFO]: Villager class_1646['Deshawn'/6167, l='ServerLevel[world]', x=-1448.43, y=48.00, z=146.29] died, message: 'Deshawn was slain by Zombie'
+[00:45:41] [Server thread/INFO]: Named entity class_1646['Deshawn'/6167, l='ServerLevel[world]', x=-1448.43, y=48.00, z=146.29] died: Deshawn was slain by Zombie
+[00:47:42] [Server thread/INFO]: [STDOUT]: Finalizing fluid item registration

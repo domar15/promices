@@ -18976,6 +18976,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2025-07-16 00:41:53 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/gold_ingot_from_boots": {
     "criteria": {
       "has_golden_boots": "2025-07-16 00:29:12 +0000"
@@ -19027,6 +19033,12 @@
   "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2025-07-16 00:31:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2025-07-16 00:41:53 +0000"
     },
     "done": true
   },
