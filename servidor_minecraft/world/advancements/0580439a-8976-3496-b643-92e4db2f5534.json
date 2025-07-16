@@ -20847,6 +20847,12 @@
     },
     "done": false
   },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-07-16 06:32:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
     "criteria": {
       "has_skeleton_skull": "2025-07-16 05:53:23 +0000"
