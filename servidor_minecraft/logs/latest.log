@@ -2684,3 +2684,74 @@ BCLib - The End  BiomeSource (1adbbc1b)
 [08:43:08] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-280, y=-47, z=423}
 [08:43:08] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-373, y=-32, z=424}
 [08:43:08] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-373, y=-32, z=426}
+[08:48:45] [Server thread/WARN]: Player ability minecraft:mayfly was updated externally (expected disabled, was enabled).
+java.lang.RuntimeException: stacktrace
+	at io.github.ladysnake.pal.impl.PalInternals.logTamperWarning(PalInternals.java:63) ~[playerabilitylib-1.8.0-4683a0cc11f08713.jar:?]
+	at io.github.ladysnake.pal.impl.VanillaAbilityTracker.checkConflict(VanillaAbilityTracker.java:71) ~[playerabilitylib-1.8.0-4683a0cc11f08713.jar:?]
+	at net.minecraft.server.network.ServerPlayerEntity.handler$gpf000$playerabilitylib$checkAbilityConsistency(ServerPlayerEntity.java:23424) ~[server-intermediary.jar:?]
+	at net.minecraft.server.network.ServerPlayerEntity.sendAbilitiesUpdate(ServerPlayerEntity.java:1323) ~[server-intermediary.jar:?]
+	at dev.ftb.mods.ftbessentials.command.CheatCommands.lambda$fly$25(CheatCommands.java:260) ~[ftb-essentials-fabric-2001.2.3.jar:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at dev.ftb.mods.ftbessentials.command.CheatCommands.fly(CheatCommands.java:246) ~[ftb-essentials-fabric-2001.2.3.jar:?]
+	at dev.ftb.mods.ftbessentials.command.CheatCommands.lambda$register$6(CheatCommands.java:92) ~[ftb-essentials-fabric-2001.2.3.jar:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar:?]
+	at net.minecraft.server.command.CommandManager.redirect$zpb000$architectury$performCommand(CommandManager.java:1545) ~[server-intermediary.jar:?]
+	at net.minecraft.server.command.CommandManager.execute(CommandManager.java:287) ~[server-intermediary.jar:?]
+	at net.minecraft.server.network.ServerPlayNetworkHandler.handleCommandExecution(ServerPlayNetworkHandler.java:1341) ~[server-intermediary.jar:?]
+	at net.minecraft.server.network.ServerPlayNetworkHandler.method_44356(ServerPlayNetworkHandler.java:1321) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.method_5386(ThreadExecutor.java:67) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:764) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:742) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[08:50:58] [Server thread/INFO]: d0ce3_ was slain by Puta
+[08:50:58] [Server thread/INFO]: Created new backpack backup file for d0ce3_ with unique ID travelersbackpack.standard_16.07.2025-08.50.58.dat
+[08:51:00] [Server thread/WARN]: Player ability minecraft:mayfly was updated externally (expected disabled, was enabled).
+java.lang.RuntimeException: stacktrace
+	at io.github.ladysnake.pal.impl.PalInternals.logTamperWarning(PalInternals.java:63) ~[playerabilitylib-1.8.0-4683a0cc11f08713.jar:?]
+	at io.github.ladysnake.pal.impl.VanillaAbilityTracker.checkConflict(VanillaAbilityTracker.java:71) ~[playerabilitylib-1.8.0-4683a0cc11f08713.jar:?]
+	at net.minecraft.server.network.ServerPlayerEntity.handler$gpf000$playerabilitylib$checkAbilityConsistency(ServerPlayerEntity.java:23424) ~[server-intermediary.jar:?]
+	at net.minecraft.server.network.ServerPlayerEntity.sendAbilitiesUpdate(ServerPlayerEntity.java:1323) ~[server-intermediary.jar:?]
+	at dev.ftb.mods.ftbessentials.FTBEEventHandler.lambda$playerTickPost$4(FTBEEventHandler.java:136) ~[ftb-essentials-fabric-2001.2.3.jar:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at dev.ftb.mods.ftbessentials.FTBEEventHandler.playerTickPost(FTBEEventHandler.java:126) ~[ftb-essentials-fabric-2001.2.3.jar:?]
+	at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732) ~[?:?]
+	at dev.architectury.event.EventFactory.invokeMethod(EventFactory.java:53) ~[architectury-9.2.14-fabric.jar:?]
+	at dev.architectury.event.EventFactory$1.handleInvocation(EventFactory.java:62) ~[architectury-9.2.14-fabric.jar:?]
+	at com.google.common.reflect.AbstractInvocationHandler.invoke(AbstractInvocationHandler.java:87) ~[guava-31.1-jre.jar:?]
+	at jdk.proxy2.$Proxy234.tick(Unknown Source) ~[?:?]
+	at net.minecraft.entity.player.PlayerEntity.handler$bab000$architectury$postTick(PlayerEntity.java:10409) ~[server-intermediary.jar:?]
+	at net.minecraft.entity.player.PlayerEntity.tick(PlayerEntity.java:332) ~[server-intermediary.jar:?]
+	at net.minecraft.server.network.ServerPlayerEntity.playerTick(ServerPlayerEntity.java:510) ~[server-intermediary.jar:?]
+	at net.minecraft.server.network.ServerPlayNetworkHandler.mixinextras$bridge$method_14226$159(ServerPlayNetworkHandler.java) ~[server-intermediary.jar:?]
+	at com.bawnorton.neruina.handler.TickHandler.safelyTickPlayer(TickHandler.java:136) ~[Neruina-2.3.1-beta.1-fabric+1.20.1.jar:?]
+	at net.minecraft.server.network.ServerPlayNetworkHandler.wrapOperation$fph000$neruina$catchTickingPlayer$notTheCauseOfTickLag(ServerPlayNetworkHandler.java:7954) ~[server-intermediary.jar:?]
+	at net.minecraft.server.network.ServerPlayNetworkHandler.tick(ServerPlayNetworkHandler.java:269) ~[server-intermediary.jar:?]
+	at net.minecraft.network.ClientConnection.tick(ClientConnection.java:259) ~[server-intermediary.jar:?]
+	at net.minecraft.server.ServerNetworkIo.tick(ServerNetworkIo.java:172) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.tickWorlds(MinecraftServer.java:908) ~[server-intermediary.jar:?]
+	at net.minecraft.server.dedicated.MinecraftDedicatedServer.tickWorlds(MinecraftDedicatedServer.java:283) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:824) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:671) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[08:51:00] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of d0ce3_ accepted server config.
+[08:51:04] [Server thread/INFO]: d0ce3_ claimed a grave belonging to d0ce3_ at -1458, 103, 252, minecraft:overworld
+[08:52:45] [Server thread/INFO]: zimee777 lost connection: Disconnected
+[08:52:45] [Server thread/INFO]: zimee777 left the game
+[08:52:45] [Server thread/INFO]: remove player wand
+[08:52:45] [Server thread/INFO]: Removing session data for player zimee777[0580439a-8976-3496-b643-92e4db2f5534]
+[08:52:45] [Server thread/INFO]: Updating all forceload tickets for 0580439a-8976-3496-b643-92e4db2f5534
+[08:52:45] [Server thread/INFO]: [voicechat] Disconnecting client zimee777
+[08:53:55] [Server thread/INFO]: Villager class_1646['Ramona'/138724, l='ServerLevel[world]', x=-1495.02, y=35.00, z=171.86] died, message: 'Ramona hit the ground too hard whilst trying to escape Zombie'
+[08:53:55] [Server thread/INFO]: Named entity class_1646['Ramona'/138724, l='ServerLevel[world]', x=-1495.02, y=35.00, z=171.86] died: Ramona was doomed to fall by Zombie
