@@ -18946,6 +18946,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/asphalt/wall": {
+    "criteria": {
+      "has_asphalt": "2025-07-16 02:16:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2025-07-16 00:26:45 +0000"
@@ -19012,6 +19018,18 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/asphalt/polished_slab": {
+    "criteria": {
+      "has_asphalt": "2025-07-16 02:16:37 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/polished_block": {
+    "criteria": {
+      "has_asphalt": "2025-07-16 02:16:37 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/zinc_dust": {
     "criteria": {
       "has_tag_c_zinc_ingots": "2025-07-16 00:26:45 +0000"
@@ -19036,9 +19054,21 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/asphalt/polished_stairs": {
+    "criteria": {
+      "has_asphalt": "2025-07-16 02:16:37 +0000"
+    },
+    "done": true
+  },
   "beachparty:recipes/beach_towel": {
     "criteria": {
       "has_white_wool": "2025-07-16 01:02:22 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/stairs": {
+    "criteria": {
+      "has_asphalt": "2025-07-16 02:16:37 +0000"
     },
     "done": true
   },
@@ -19069,6 +19099,12 @@
   "create:recipes/misc/crafting/kinetics/placard": {
     "criteria": {
       "has_item": "2025-07-16 00:31:44 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/stairs": {
+    "criteria": {
+      "has_asphalt": "2025-07-16 02:16:37 +0000"
     },
     "done": true
   },
@@ -19108,9 +19144,21 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/asphalt/slab": {
+    "criteria": {
+      "has_asphalt": "2025-07-16 02:16:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
     "criteria": {
       "has_item": "2025-07-16 00:26:45 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/polished_block": {
+    "criteria": {
+      "has_asphalt": "2025-07-16 02:16:37 +0000"
     },
     "done": true
   },
@@ -19123,6 +19171,12 @@
   "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
     "criteria": {
       "has_item": "2025-07-16 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/wall": {
+    "criteria": {
+      "has_asphalt": "2025-07-16 02:16:37 +0000"
     },
     "done": true
   },
@@ -19207,6 +19261,12 @@
   "travelersbackpack:recipes/decorations/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2025-07-16 01:02:22 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/slab": {
+    "criteria": {
+      "has_asphalt": "2025-07-16 02:16:37 +0000"
     },
     "done": true
   },

@@ -19335,6 +19335,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-16 02:06:30 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/elder_broom": {
     "criteria": {
       "has_item": "2025-07-16 01:39:51 +0000"
@@ -19350,6 +19356,18 @@
   "botania:recipes/misc/petal_light_blue": {
     "criteria": {
       "has_item": "2025-07-16 01:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-16 02:06:30 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_spider": {
+    "criteria": {
+      "has_core_specification_item": "2025-07-16 02:06:30 +0000"
     },
     "done": true
   },
