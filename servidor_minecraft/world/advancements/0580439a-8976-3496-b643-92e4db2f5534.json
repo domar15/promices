@@ -19323,6 +19323,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab": {
+    "criteria": {
+      "has_item": "2025-07-16 02:37:08 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/building_blocks/elder_planks": {
     "criteria": {
       "has_item": "2025-07-16 01:39:51 +0000"
@@ -19347,9 +19353,33 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-16 02:37:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-16 02:37:08 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/building_blocks/elder_wood": {
     "criteria": {
       "has_item": "2025-07-16 01:39:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs": {
+    "criteria": {
+      "has_item": "2025-07-16 02:37:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-16 02:37:08 +0000"
     },
     "done": true
   },
@@ -19362,6 +19392,18 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-07-16 02:06:30 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall": {
+    "criteria": {
+      "has_item": "2025-07-16 02:37:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cracked_cobblestone_bricks": {
+    "criteria": {
+      "has_item": "2025-07-16 02:37:08 +0000"
     },
     "done": true
   },

@@ -18916,6 +18916,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/computer_advanced": {
+    "criteria": {
+      "has_components": "2025-07-16 02:36:26 +0000"
+    },
+    "done": true
+  },
   "create:brass": {
     "criteria": {
       "0": "2025-07-16 00:31:44 +0000"
