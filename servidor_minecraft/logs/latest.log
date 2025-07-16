@@ -2395,3 +2395,5 @@ BCLib - The End  BiomeSource (1adbbc1b)
 [02:50:12] [Server thread/INFO]: Removing session data for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
 [02:50:12] [Server thread/INFO]: Updating all forceload tickets for 54069e65-d697-3049-9cfd-44262b1466bb
 [02:50:12] [Server thread/INFO]: [voicechat] Disconnecting client d0ce3_
+[03:05:36] [Server thread/INFO]: zimee777 was slain by Zombie
+[03:08:50] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
