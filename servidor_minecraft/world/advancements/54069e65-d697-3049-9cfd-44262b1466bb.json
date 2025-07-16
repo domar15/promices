@@ -19540,6 +19540,12 @@
     },
     "done": true
   },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-07-16 05:49:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/schematic_table": {
     "criteria": {
       "has_item": "2025-07-16 05:20:44 +0000"
@@ -19552,9 +19558,21 @@
     },
     "done": true
   },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2025-07-16 05:49:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_smooth_stone": "2025-07-16 05:12:16 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-07-16 05:49:36 +0000"
     },
     "done": true
   },
