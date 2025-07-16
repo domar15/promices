@@ -19342,6 +19342,12 @@
     },
     "done": true
   },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-07-16 03:54:49 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-07-16 03:39:03 +0000"
@@ -19369,6 +19375,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_stonecutting": {
     "criteria": {
       "has_item": "2025-07-16 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/filter_clear": {
+    "criteria": {
+      "has_item": "2025-07-16 03:49:29 +0000"
     },
     "done": true
   },
