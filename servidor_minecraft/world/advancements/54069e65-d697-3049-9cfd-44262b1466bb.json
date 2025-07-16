@@ -18892,6 +18892,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2025-07-16 01:01:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/brass_tunnel": {
     "criteria": {
       "has_item": "2025-07-16 00:31:44 +0000"
@@ -18901,6 +18907,12 @@
   "techreborn:recipes/compressor/zinc_plate": {
     "criteria": {
       "has_tag_c_zinc_ingots": "2025-07-16 00:26:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-07-16 01:02:22 +0000"
     },
     "done": true
   },
@@ -18922,9 +18934,27 @@
     },
     "done": true
   },
+  "herbalbrews:recipes/top_hat": {
+    "criteria": {
+      "has_white_wool": "2025-07-16 01:02:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/white_bed_from_wool": {
+    "criteria": {
+      "has_white_wool": "2025-07-16 01:02:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2025-07-16 00:26:45 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-07-16 00:55:07 +0000"
     },
     "done": true
   },
@@ -18964,6 +18994,12 @@
     },
     "done": true
   },
+  "herbalbrews:recipes/witch_hat": {
+    "criteria": {
+      "has_white_wool": "2025-07-16 01:02:22 +0000"
+    },
+    "done": true
+  },
   "creategoggles:recipes/combat/modifier_remover": {
     "criteria": {
       "has_brass": "2025-07-16 00:31:44 +0000"
@@ -18973,6 +19009,18 @@
   "techreborn:recipes/grinder/zinc_dust": {
     "criteria": {
       "has_tag_c_zinc_ingots": "2025-07-16 00:26:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-16 01:02:22 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/beach_towel": {
+    "criteria": {
+      "has_white_wool": "2025-07-16 01:02:22 +0000"
     },
     "done": true
   },
@@ -18988,6 +19036,12 @@
     },
     "done": true
   },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-16 01:02:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/placard": {
     "criteria": {
       "has_item": "2025-07-16 00:31:44 +0000"
@@ -19000,9 +19054,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-16 00:55:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/deployer": {
     "criteria": {
       "has_item": "2025-07-16 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-16 01:02:22 +0000"
     },
     "done": true
   },
@@ -19036,15 +19102,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-16 00:55:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/attribute_filter": {
     "criteria": {
       "has_item": "2025-07-16 00:31:44 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-07-16 01:02:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
     "criteria": {
       "has_item": "2025-07-16 00:31:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
+    "criteria": {
+      "has_item": "2025-07-16 01:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-16 01:02:22 +0000"
     },
     "done": true
   },
@@ -19057,6 +19147,18 @@
   "techreborn:recipes/crafting_table/ingot/mixed_metal_ingot_alt": {
     "criteria": {
       "has_brass_ingot": "2025-07-16 00:31:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-07-16 01:02:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-07-16 01:02:22 +0000"
     },
     "done": true
   },
@@ -19087,6 +19189,12 @@
   "create:recipes/building_blocks/copycat_step_from_zinc_ingots_stonecutting": {
     "criteria": {
       "has_zinc_ingots": "2025-07-16 00:26:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-16 01:02:22 +0000"
     },
     "done": true
   },
