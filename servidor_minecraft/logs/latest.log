@@ -2552,3 +2552,43 @@ BCLib - The End  BiomeSource (1adbbc1b)
 [04:54:20] [Server thread/INFO]: New Schematic Uploaded: zimee777/piso_tierra.nbt
 [04:58:49] [Server thread/INFO]: New Schematic Uploaded: zimee777/piso_tierra.nbt
 [05:00:06] [Server thread/INFO]: zimee777 has made the advancement [Enchanter]
+[05:05:09] [Server thread/INFO]: [Handshake] Sending channel query
+[05:05:09] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[05:05:09] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[05:05:09] [Server thread/INFO]: d0ce3_[/100.69.53.32:53171] logged in with entity id 71427 at (-1414.2620727107578, 65.0, 275.6247376616259)
+[05:05:09] [Server thread/INFO]: Sending server config values to client
+[05:05:09] [Server thread/INFO]: Syncing config to d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb)
+[05:05:09] [Server thread/INFO]: Loading config from file...
+[05:05:09] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[05:05:09] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:05:09] [Server thread/INFO]: d0ce3_ joined the game
+[05:05:09] [Server thread/INFO]: Loading Configs for Sortilege
+[05:05:09] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[05:05:09] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[05:05:09] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[05:05:09] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[05:05:09] [Server thread/INFO]: PLAYER_JOIN
+[05:05:09] [Server thread/INFO]: add_player wand
+[05:05:09] [Server thread/INFO]: config sent
+[05:05:09] [Server thread/INFO]: Player d0ce3_ just logged in with id 54069e65-d697-3049-9cfd-44262b1466bb
+[05:05:09] [Server thread/INFO]: Updating all forceload tickets for 54069e65-d697-3049-9cfd-44262b1466bb
+[05:05:09] [ForkJoinPool-4-worker-7/INFO]: Loading local skin for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[05:05:09] [ForkJoinPool-4-worker-7/INFO]: Loading local cape for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[05:05:12] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[05:05:15] [Netty Epoll Server IO #6/INFO]: Channel update: d0ce3_ -> default
+[05:05:15] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player d0ce3_. Claiming: GRAVE / Robbing: INVENTORY
+[05:05:15] [Server thread/INFO]: [voicechat] Received secret request of d0ce3_ (18)
+[05:05:15] [Server thread/INFO]: [voicechat] Sent secret to d0ce3_
+[05:05:17] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of d0ce3_ accepted server config.
+[05:05:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 54069e65-d697-3049-9cfd-44262b1466bb
+[05:05:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 54069e65-d697-3049-9cfd-44262b1466bb
+[05:05:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb) successfully connected to voice chat
+[05:05:32] [Server thread/INFO]: <zimee777> uf vino mi hombre
+[05:05:47] [Server thread/INFO]: <d0ce3_> despues de crashear 2 veces el juego seguido
+[05:05:51] [Server thread/INFO]: <d0ce3_> pude
+[05:05:59] [Server thread/INFO]: <zimee777> y eso ajjajajajajaja
+[05:07:14] [Server thread/INFO]: <d0ce3_> no tenei hierro?
+[05:07:22] [Server thread/INFO]: <zimee777> em
+[05:07:24] [Server thread/INFO]: <zimee777> cuanto
+[05:07:26] [Server thread/INFO]: <zimee777> ajsjsjsjsjja
+[05:07:51] [Server thread/INFO]: <d0ce3_> 9? c:
