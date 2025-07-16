@@ -2397,3 +2397,57 @@ BCLib - The End  BiomeSource (1adbbc1b)
 [02:50:12] [Server thread/INFO]: [voicechat] Disconnecting client d0ce3_
 [03:05:36] [Server thread/INFO]: zimee777 was slain by Zombie
 [03:08:50] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[03:09:55] [Server thread/INFO]: [Handshake] Sending channel query
+[03:09:55] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[03:09:55] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[03:09:55] [Server thread/INFO]: d0ce3_[/100.69.53.32:49402] logged in with entity id 49836 at (-1379.8734899241488, 63.0, 230.68015243373327)
+[03:09:55] [Server thread/INFO]: Sending server config values to client
+[03:09:55] [Server thread/INFO]: Syncing config to d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb)
+[03:09:56] [Server thread/INFO]: Loading config from file...
+[03:09:56] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[03:09:56] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:09:56] [Server thread/INFO]: d0ce3_ joined the game
+[03:09:56] [Server thread/INFO]: Loading Configs for Sortilege
+[03:09:56] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[03:09:56] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[03:09:56] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[03:09:56] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[03:09:56] [Server thread/INFO]: PLAYER_JOIN
+[03:09:56] [Server thread/INFO]: add_player wand
+[03:09:56] [Server thread/INFO]: config sent
+[03:09:56] [Server thread/INFO]: Player d0ce3_ just logged in with id 54069e65-d697-3049-9cfd-44262b1466bb
+[03:09:56] [Server thread/INFO]: Updating all forceload tickets for 54069e65-d697-3049-9cfd-44262b1466bb
+[03:09:56] [ForkJoinPool-4-worker-4/INFO]: Loading local skin for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[03:09:56] [ForkJoinPool-4-worker-4/INFO]: Loading local cape for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[03:09:58] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[03:10:03] [Netty Epoll Server IO #2/INFO]: Channel update: d0ce3_ -> default
+[03:10:03] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player d0ce3_. Claiming: GRAVE / Robbing: INVENTORY
+[03:10:03] [Server thread/INFO]: [voicechat] Received secret request of d0ce3_ (18)
+[03:10:03] [Server thread/INFO]: [voicechat] Sent secret to d0ce3_
+[03:10:05] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of d0ce3_ accepted server config.
+[03:10:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 54069e65-d697-3049-9cfd-44262b1466bb
+[03:10:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 54069e65-d697-3049-9cfd-44262b1466bb
+[03:10:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb) successfully connected to voice chat
+[03:10:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[03:12:46] [Server thread/INFO]: <zimee777> che
+[03:12:55] [Server thread/INFO]: <d0ce3_> que paso
+[03:12:56] [Server thread/INFO]: <zimee777> me voy a acostar un ratito depue juego
+[03:13:03] [Server thread/INFO]: <d0ce3_> ueno
+[03:13:40] [Server thread/INFO]: <zimee777> jjsajjsajja
+[03:13:44] [Server thread/INFO]: <zimee777> maleducado
+[03:14:11] [Server thread/INFO]: <zimee777> jajsjajjsaja
+[03:14:18] [Server thread/INFO]: <zimee777> parece mundo gaturro
+[03:14:21] [Server thread/INFO]: <d0ce3_> JAJAJ
+[03:14:24] [Server thread/INFO]: <d0ce3_> bue
+[03:14:36] [Server thread/INFO]: <zimee777> bueno depue entro hermosooooo
+[03:14:40] [Server thread/INFO]: <d0ce3_> ueno hermosa
+[03:14:48] [Server thread/INFO]: zimee777 lost connection: Disconnected
+[03:14:48] [Server thread/INFO]: zimee777 left the game
+[03:14:48] [Server thread/INFO]: remove player wand
+[03:14:48] [Server thread/INFO]: Removing session data for player zimee777[0580439a-8976-3496-b643-92e4db2f5534]
+[03:14:48] [Server thread/INFO]: Updating all forceload tickets for 0580439a-8976-3496-b643-92e4db2f5534
+[03:14:48] [Server thread/INFO]: [voicechat] Disconnecting client zimee777
+[03:15:04] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:15:04] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:15:04] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:15:04] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
