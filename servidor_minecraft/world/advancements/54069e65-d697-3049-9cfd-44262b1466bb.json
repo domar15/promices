@@ -19042,6 +19042,12 @@
     },
     "done": true
   },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2025-07-16 01:44:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/placard": {
     "criteria": {
       "has_item": "2025-07-16 00:31:44 +0000"
@@ -19099,6 +19105,12 @@
   "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
     "criteria": {
       "has_item": "2025-07-16 00:50:16 +0000"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-07-16 01:44:50 +0000"
     },
     "done": true
   },
