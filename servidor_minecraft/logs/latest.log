@@ -2518,3 +2518,37 @@ BCLib - The End  BiomeSource (1adbbc1b)
 [04:50:09] [Server thread/INFO]: Removing session data for player zimee777[0580439a-8976-3496-b643-92e4db2f5534]
 [04:50:09] [Server thread/INFO]: Updating all forceload tickets for 0580439a-8976-3496-b643-92e4db2f5534
 [04:50:09] [Server thread/INFO]: [voicechat] Disconnecting client zimee777
+[04:53:49] [Server thread/INFO]: [Handshake] Sending channel query
+[04:53:50] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[04:53:50] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[04:53:50] [Server thread/INFO]: zimee777[/100.114.212.114:51506] logged in with entity id 67997 at (-1358.691308709071, 63.0, 230.5873353115978)
+[04:53:50] [Server thread/INFO]: Sending server config values to client
+[04:53:50] [Server thread/INFO]: Syncing config to zimee777 (0580439a-8976-3496-b643-92e4db2f5534)
+[04:53:50] [Server thread/INFO]: Loading config from file...
+[04:53:50] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[04:53:50] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04:53:50] [Server thread/INFO]: zimee777 joined the game
+[04:53:50] [Server thread/INFO]: Loading Configs for Sortilege
+[04:53:50] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[04:53:50] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[04:53:50] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[04:53:50] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[04:53:50] [Server thread/INFO]: Updating all forceload tickets for 0580439a-8976-3496-b643-92e4db2f5534
+[04:53:50] [Server thread/INFO]: PLAYER_JOIN
+[04:53:50] [Server thread/INFO]: add_player wand
+[04:53:50] [Server thread/INFO]: config sent
+[04:53:50] [Server thread/INFO]: Player zimee777 just logged in with id 0580439a-8976-3496-b643-92e4db2f5534
+[04:53:50] [ForkJoinPool-4-worker-6/INFO]: Loading local skin for player zimee777[0580439a-8976-3496-b643-92e4db2f5534]
+[04:53:51] [ForkJoinPool-4-worker-6/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[04:53:53] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[04:53:53] [Netty Epoll Server IO #1/INFO]: Channel update: zimee777 -> default
+[04:53:53] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player zimee777. Claiming: GRAVE / Robbing: INVENTORY
+[04:53:53] [Server thread/INFO]: [voicechat] Received secret request of zimee777 (18)
+[04:53:53] [Server thread/INFO]: [voicechat] Sent secret to zimee777
+[04:53:58] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[04:54:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0580439a-8976-3496-b643-92e4db2f5534
+[04:54:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0580439a-8976-3496-b643-92e4db2f5534
+[04:54:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player zimee777 (0580439a-8976-3496-b643-92e4db2f5534) successfully connected to voice chat
+[04:54:20] [Server thread/INFO]: New Schematic Uploaded: zimee777/piso_tierra.nbt
+[04:58:49] [Server thread/INFO]: New Schematic Uploaded: zimee777/piso_tierra.nbt
+[05:00:06] [Server thread/INFO]: zimee777 has made the advancement [Enchanter]
