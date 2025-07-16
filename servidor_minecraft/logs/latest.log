@@ -2474,3 +2474,41 @@ BCLib - The End  BiomeSource (1adbbc1b)
 [04:23:51] [Server thread/WARN]: Lithium Class Analysis Error: Class org.betterx.bclib.blocks.BaseLeavesBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_793. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
 [04:23:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2274ms or 45 ticks behind
 [04:29:27] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of d0ce3_ accepted server config.
+[04:31:29] [Server thread/INFO]: d0ce3_ lost connection: Disconnected
+[04:31:29] [Server thread/INFO]: d0ce3_ left the game
+[04:31:29] [Server thread/INFO]: remove player wand
+[04:31:29] [Server thread/INFO]: Removing session data for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[04:31:29] [Server thread/INFO]: Updating all forceload tickets for 54069e65-d697-3049-9cfd-44262b1466bb
+[04:31:29] [Server thread/INFO]: [voicechat] Disconnecting client d0ce3_
+[04:39:35] [Server thread/INFO]: [Handshake] Sending channel query
+[04:39:36] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[04:39:36] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[04:39:36] [Server thread/INFO]: zimee777[/100.114.212.114:51445] logged in with entity id 65203 at (-1425.7031794529144, 64.0, 248.5650248673844)
+[04:39:36] [Server thread/INFO]: Sending server config values to client
+[04:39:36] [Server thread/INFO]: Syncing config to zimee777 (0580439a-8976-3496-b643-92e4db2f5534)
+[04:39:36] [Server thread/INFO]: Loading config from file...
+[04:39:36] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[04:39:36] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04:39:36] [Server thread/INFO]: zimee777 joined the game
+[04:39:36] [Server thread/INFO]: Loading Configs for Sortilege
+[04:39:36] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[04:39:36] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[04:39:36] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[04:39:36] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[04:39:36] [Server thread/INFO]: Updating all forceload tickets for 0580439a-8976-3496-b643-92e4db2f5534
+[04:39:36] [Server thread/INFO]: PLAYER_JOIN
+[04:39:36] [Server thread/INFO]: add_player wand
+[04:39:36] [Server thread/INFO]: config sent
+[04:39:36] [Server thread/INFO]: Player zimee777 just logged in with id 0580439a-8976-3496-b643-92e4db2f5534
+[04:39:36] [ForkJoinPool-4-worker-5/INFO]: Loading local skin for player zimee777[0580439a-8976-3496-b643-92e4db2f5534]
+[04:39:36] [ForkJoinPool-4-worker-5/INFO]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[04:39:39] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[04:39:39] [Netty Epoll Server IO #6/INFO]: Channel update: zimee777 -> default
+[04:39:39] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player zimee777. Claiming: GRAVE / Robbing: INVENTORY
+[04:39:39] [Server thread/INFO]: [voicechat] Received secret request of zimee777 (18)
+[04:39:39] [Server thread/INFO]: [voicechat] Sent secret to zimee777
+[04:39:46] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of zimee777 accepted server config.
+[04:39:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0580439a-8976-3496-b643-92e4db2f5534
+[04:39:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0580439a-8976-3496-b643-92e4db2f5534
+[04:39:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player zimee777 (0580439a-8976-3496-b643-92e4db2f5534) successfully connected to voice chat
+[04:40:16] [Server thread/INFO]: zimee777 claimed a grave belonging to zimee777 at -1368, 63, 232, minecraft:overworld
