@@ -18952,6 +18952,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/controller_slave": {
+    "criteria": {
+      "has_chest": "2025-07-16 01:50:56 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/spruce_beam": {
     "criteria": {
       "has_stripped_log": "2025-07-16 00:55:07 +0000"
@@ -19009,6 +19015,18 @@
   "techreborn:recipes/grinder/zinc_dust": {
     "criteria": {
       "has_tag_c_zinc_ingots": "2025-07-16 00:26:45 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/detached_drawer": {
+    "criteria": {
+      "has_chest": "2025-07-16 01:50:56 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/controller": {
+    "criteria": {
+      "has_chest": "2025-07-16 01:50:56 +0000"
     },
     "done": true
   },
@@ -19108,6 +19126,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/compacting_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-16 01:50:56 +0000"
+    },
+    "done": true
+  },
   "create:chute": {
     "criteria": {
       "0": "2025-07-16 01:44:50 +0000"
@@ -19135,6 +19159,12 @@
   "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
     "criteria": {
       "has_item": "2025-07-16 00:31:44 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/upgrade_template": {
+    "criteria": {
+      "has_chest": "2025-07-16 01:50:56 +0000"
     },
     "done": true
   },
