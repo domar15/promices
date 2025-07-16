@@ -20878,6 +20878,12 @@
     },
     "done": true
   },
+  "chipped:recipes/carpenters_table": {
+    "criteria": {
+      "has_carpenters_table": "2025-07-16 08:02:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-07-16 05:00:06 +0000"
