@@ -19336,9 +19336,27 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/track_switch_brass": {
+    "criteria": {
+      "has_item": "2025-07-16 04:17:57 +0000"
+    },
+    "done": true
+  },
+  "estrogen:recipes/redstone/centrifuge": {
+    "criteria": {
+      "has_precision_mechanism": "2025-07-16 04:17:57 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_stonecutting": {
     "criteria": {
       "has_item": "2025-07-16 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-07-16 04:10:39 +0000"
     },
     "done": true
   },
@@ -19351,6 +19369,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-07-16 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-07-16 04:17:57 +0000"
     },
     "done": true
   },
@@ -19393,6 +19417,12 @@
   "twigs:recipes/cobblestone_bricks/cracked_cobblestone_bricks": {
     "criteria": {
       "has_item": "2025-07-16 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/remote_lens": {
+    "criteria": {
+      "has_item": "2025-07-16 04:17:57 +0000"
     },
     "done": true
   },
